@@ -624,7 +624,7 @@
             artifacts: ./perfcake-7.4/perfcake-chart
 
 - job:
-    name: 'devtools-test-end-to-end
+    name: 'devtools-test-end-to-end'
     defaults: global
     node: devtools
     properties:
